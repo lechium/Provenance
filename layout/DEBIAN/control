@@ -1,0 +1,11 @@
+Package: com.provenance.provenance-tvos
+Priority: Extra
+Name: Provenance
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), mobilesubstrate
+Version: 1.4
+Architecture: appletvos-arm64
+Description: An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC and GBA.
+Maintainer: James Addyman
+Author: James Addyman
+Section: Multimedia
